@@ -1,6 +1,6 @@
 - 👋 Hi, I’m Kono Steve Morgan
 - 👀 I’m interested in web development with Typescript & Java
-- 🌱 I’m currently learning Java & Kotlin
+- 🌱 I’m currently learning Java & TypeScript
 - 📫 How to reach me => stevekono77@gmail.com
 
 <!---
